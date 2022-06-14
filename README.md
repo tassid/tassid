@@ -3,8 +3,8 @@
 ### Abstract
 
 - 👨‍💻 Web Developer
-- 🌱 Estudante de Ciência da Computação, 5° semestre.
-- 💙 Interesse: JavaScript, React, C# , .NET e ASP.NET.
+- 🌱 Estudante de Ciência da Computação, 5° semestre. // Computer Science student, 5th semester.
+- 💙 JavaScript, React, C# , .NET e ASP.NET.
 
 
 ## Skills :nerd_face:
