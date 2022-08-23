@@ -2,7 +2,6 @@
 
 ### Abstract
 
-- 👨‍💻 Web Developer
 - 🌱 Estudante de Ciência da Computação, 5° semestre. // Computer Science student, 5th semester.
 - 💙 JavaScript, React, C#.
 
