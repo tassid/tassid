@@ -1,4 +1,4 @@
-## Hi there! / Olá!
+## Hi there! / Olá! 👩‍💻
 
 ### Abstract
 
