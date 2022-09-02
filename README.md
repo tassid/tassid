@@ -3,7 +3,7 @@
 ### Abstract
 
 - 🌱 Estudante de Ciência da Computação, 5° semestre. // Computer Science student, 5th semester.
-- 💙 JavaScript, React, C#.
+- 💙 C# & RPA Developer.
 
 
 ## Skills :nerd_face:
