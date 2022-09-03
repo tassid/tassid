@@ -2,7 +2,7 @@
 
 ### Abstract
 - 💫 Tassiane Anzolin, BR 
-- 🌱 Estudante de Ciência da Computação, 5° semestre. // Computer Science student, 5th semester.
+- 🌱 Estudante de Ciência da Computação // Computer Science student
 - 💙 C# & RPA Developer.
 
 ## Contact :iphone:
