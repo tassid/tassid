@@ -1,10 +1,5 @@
 ## Hi there! / Olá! 👩‍💻✨
 
-### Abstract
-- 💫 Tassiane Anzolin, BR 
-- 🌱 Estudante de Ciência da Computação // Computer Science student
-- 💙 C# & RPA Developer.
-
 ## Contact :iphone:
 
 <p align="center">
