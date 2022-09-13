@@ -1,4 +1,4 @@
-## Hi there! / Olá! 👩‍💻✨
+## Hi there! / Olá! 👩🏻‍💻✨
 
 <p align="center">
     <a href="https://github.com/tassid">
