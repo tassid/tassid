@@ -1,6 +1,5 @@
 <p align="center">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:tassianeanzolin@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
     </a>
