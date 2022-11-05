@@ -4,6 +4,6 @@
 
 <div>
   <a href="https://github.com/tassid">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrignucleo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrignucleo&layout=compact&langs_count=16&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tassid&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassid&layout=compact&langs_count=16&theme=radical"/>
 <div>
