@@ -32,4 +32,4 @@ studying computer science at **utfpr**<br/>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-[![tassid](https://github-readme-stats.vercel.app/api/top-langs/?username=tassid&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300)](https://github.com/anuraghazra/github-readme-stats)
+[![tassid](https://github-readme-stats.vercel.app/api/top-langs/?username=tassid&show_icons=false&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300)](https://github.com/anuraghazra/github-readme-stats)
