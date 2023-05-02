@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tassid&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-
 
 
 ### hello! 
@@ -16,9 +14,6 @@ studying computer science at **utfpr**<br/>
 
 </p>
 <hr>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tassid&label=Profile%20views&color=0e75b6&style=flat" alt="tassid" /> </p>
 
 #### languages & tools
 
