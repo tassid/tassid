@@ -2,10 +2,6 @@
 
 ### hello! 
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=tassid&color=f8efd4&style=for-the-badge&logo=GitHub">
-
-
-
 <p>
 
 currently working at **sicredi co-op bank**<br/>
