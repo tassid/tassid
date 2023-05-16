@@ -8,7 +8,7 @@
 
 <p>
 
-currently working at *sicredi co-op bank*<br/>
+currently working at *sicredi*<br/>
 studying computer science at *utfpr*<br/>
 
 
