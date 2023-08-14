@@ -6,13 +6,6 @@
 
 
 
-<p>
-
-currently working at *sicredi*<br/>
-studying computer science at *utfpr*<br/>
-
-
-</p>
 <hr>
 
 
