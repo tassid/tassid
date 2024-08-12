@@ -45,12 +45,13 @@ I'm always eager to learn new technologies and take on challenging projects that
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?tassid=tassid&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tassid&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?tassid=tassid&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassid&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
 
 <!-- Connect With Me -->
 ## Connect With Me
