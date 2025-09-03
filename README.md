@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&animation=fadeIn)
+
 
 <!-- Overview Badge -->
 <p align="center">
