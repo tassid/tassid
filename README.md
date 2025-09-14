@@ -1,31 +1,4 @@
 <p align="center">
-<a href="https://github.com/tassid/project1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tassid&repo=project1&theme=dracula&hide_border=true" alt="Pinned project 1"/>
-</a>
-<a href="https://github.com/tassid/project2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tassid&repo=project2&theme=dracula&hide_border=true" alt="Pinned project 2"/>
-</a>
-</p>
-
-
-<details>
-<summary><strong>Suggested ideas for pins</strong> (click)</summary>
-
-
-- `korokki-app` — Flutter e-commerce playground with cute UI & localizations
-- `frg-contractor-site` — React + Next.js marketing site with forms & analytics
-- `lipin-garage-media` — tools/scripts for content pipelines and thumbnails
-- `swiftui-components` — polished iOS components (cards, carousels, skeletons)
-
-
-</details>
-
-
----
-
-
-## 📊 Stats
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tassid&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="Stats"/>
 </p>
 <p align="center">
