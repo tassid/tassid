@@ -1,23 +1,3 @@
-**<!-- ===== DRACULA PROFILE PANEL for @tassid ===== -->
-</p>
-
-
----
-
-
-## 🚀 Highlights
-- 🔭 **What I'm building now**
-- Mobile features with **SwiftUI**/**Flutter** and realtime backends on **Firebase**
-- Reusable UI kits and design tokens in Dracula palette
-- 🧪 **Things I like**: animations, accessibility, testing pyramids, DX, and little details
-- 🤝 **Open to**: remote collabs, iOS/Flutter gigs, and fun side projects
-
-
----
-
-
-## 📌 Featured Repositories
-<!-- Replace repo names below with your real ones -->
 <p align="center">
 <a href="https://github.com/tassid/project1">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tassid&repo=project1&theme=dracula&hide_border=true" alt="Pinned project 1"/>
