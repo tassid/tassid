@@ -1,6 +1,6 @@
 <!-- Stats + Streak -->
 <p align="center">
-  <img width="340" src="https://github-readme-stats.vercel.app/api?username=tassid&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="Stats"/>
+  <img width="320" src="https://github-readme-stats.vercel.app/api?username=tassid&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="Stats"/>
   <img width="340" src="https://streak-stats.demolab.com?user=tassid&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
@@ -17,7 +17,7 @@
 
 <!-- Trophies -->
 <p align="center">
-  <img width="740" src="https://github-profile-trophy.vercel.app/?username=tassid&theme=dracula&no-frame=true&no-bg=true&column=6" alt="Trophies"/>
+  <img width="300" src="https://github-profile-trophy.vercel.app/?username=tassid&theme=dracula&no-frame=true&no-bg=true&column=6" alt="Trophies"/>
 </p>
 
 ---
