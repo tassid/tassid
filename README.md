@@ -20,8 +20,6 @@
   <img width="300" src="https://github-profile-trophy.vercel.app/?username=tassid&theme=dracula&no-frame=true&no-bg=true&column=6" alt="Trophies"/>
 </p>
 
----
-
 <!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/tassianeanzolin/">
