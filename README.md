@@ -9,7 +9,7 @@
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="740" src="https://github-readme-activity-graph.vercel.app/graph?username=tassid&theme=dracula&hide_border=true" alt="Activity Graph"/>
+    <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=tassid&theme=dracula&hide_border=true" alt="Activity Graph"/>
   </a>
 </p>
 
