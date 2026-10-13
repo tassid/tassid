@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" width="648" alt="a black hole in ascii, its disk turning. tassiane anzolin: machine learning, software engineering.">
+  <img src="assets/hero-dark.svg" width="300" alt="a black hole in ascii, its disk turning. tassiane anzolin: machine learning, software engineering.">
 </picture>
 
 `01` [science.md](https://tassiane-portfolio.vercel.app/science) — interpretable machine learning for biological data  
