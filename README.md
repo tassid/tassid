@@ -9,5 +9,3 @@ computer scientist from paraná, brazil. i split my time between research and bu
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,r,ts,js,react,nodejs,flutter,dart,cs,postgres,mongodb,opencv,git,linux" />
 </p>
-
-Currently into: interpretable ML, AI agents and automation.
