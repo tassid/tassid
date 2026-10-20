@@ -10,7 +10,4 @@ computer scientist from paraná, brazil. i split my time between research and bu
   <img src="https://skillicons.dev/icons?i=py,r,ts,js,react,nodejs,flutter,dart,cs,postgres,mongodb,opencv,git,linux" />
 </p>
 
-Currently into: microbiome data, interpretable ML, AI agents and automation.
-
-### Find me
-[X @btassii](https://x.com/btassii) · tassianeanzolin@gmail.com
+Currently into: interpretable ML, AI agents and automation.
