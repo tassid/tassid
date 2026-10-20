@@ -1,12 +1,34 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" width="500" alt="a black hole in ascii, its disk turning. tassiane anzolin: machine learning, software engineering.">
-</picture>
+<h2 align="center">Hi, I'm Tassi 👋</h2>
+<p align="center">
+  Computer Science @ <a href="https://www.utfpr.edu.br">UTFPR</a> · M.Sc. candidate in Computational Technologies for Agribusiness · Python, automation & interpretable ML
+</p>
 
-`01` [science.md](https://tassiane-portfolio.vercel.app/science) — interpretable machine learning for biological data  
-`02` [software.md](https://tassiane-portfolio.vercel.app/software) — web, mobile and automation  
-`03` [about.md](https://tassiane-portfolio.vercel.app/about) — computer scientist from paraná, brazil  
-`04` [contact.md](https://tassiane-portfolio.vercel.app/contact) — say hi
+computer scientist from paraná, brazil. i split my time between research and building software: interpretable machine learning for biological data on one side; web, mobile and automation on the other. i like work that goes from raw data to something a person can read and trust.
 
-<sub>ascii by <a href="https://ascii.rest">ascii.rest</a> · <a href="https://tassiane-portfolio.vercel.app/pt">português</a></sub>
+→ **2026 to 2027**: master's in computational technologies for agribusiness, utfpr
+
+→ **2020 to 2025**: b.sc. in computer science, utfpr
+
+→ **languages**: portuguese (native), english (fluent, c1), spanish (b2)
+
+### Highlights
+
+→ **Research**: interpretable ML (Random Forest, SHAP) and project-wise validation across microbiome datasets, with papers at Latin.Science 2026 and SBPROPPG 2026
+
+→ **Sicredi**: automated 6+ business processes with RPA and Python, saving 350+ hours of manual work per year, and integrated 4+ legacy systems through APIs
+
+→ **StartSe**: built end to end AI kiosks for in person events (prompt engineering, LLM integration, interface) and 3+ Flutter apps for an executive education platform
+
+→ **Embrapa**: fruit detection with YOLO and OpenCV and an apple counting model that saved 100+ hours per harvest
+
+→ **Awards**: 1st place in the Capture the Flag at Latinoware 2025 and Best Short Paper at XVII Latinoware (2021)
+
+### Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,r,ts,js,react,nodejs,flutter,dart,cs,postgres,mongodb,opencv,git,linux" />
+</p>
+
+Currently into: microbiome data, interpretable ML, AI agents and automation.
+
+### Find me
+[X @btassii](https://x.com/btassii) · tassianeanzolin@gmail.com
